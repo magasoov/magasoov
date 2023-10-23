@@ -46,7 +46,7 @@
  </p>
 
 <!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+проект+student)](https://magasoov.github.io/projekt/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Нажми+на+текст+чтобы+перейти+на+мой+проект)](https://magasoov.github.io/projekt/)
 
 
 
