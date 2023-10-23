@@ -43,9 +43,6 @@
  
  <a href="https://instagram.com/01aushev" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://github.com/magasoov" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
-
- <a href="https://instagram.com/01aushev" target="_blank"><img height="25" src=""></a>&nbsp;&nbsp;
- 
  </p>
 
 
