@@ -5,7 +5,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 
-<h1 align="left">Hi there, I'm Muhammad <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif"> width="80"</h1>
+<h1 align="left">Hi there, I'm Muhammad <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" width="80" align-items: center> </h1>
 
 
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a></h2>
