@@ -5,7 +5,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 
-<p align="left">Hi there, I'm Muhammad  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" width="80"> </p>
+
 
 <h2 align="left">Hi there, I'm <a href="https://instagram.com/01aushev" target="_blank" rel="noopener noreferrer">Muhammad</a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" height="30" />
 
