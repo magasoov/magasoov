@@ -57,7 +57,7 @@
 
 <br>
 
-Credits: [magasoov](https://github.com/magasoov)
+Credits: [magasoov](https://github.com/magasoov <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" height="20" />)
 01/09/2023
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" height="20" />
