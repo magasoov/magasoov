@@ -53,7 +53,7 @@
 <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+Проект)](https://magasoov.github.io/projekt/)
 
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif' width="50" heigth="50"'></a></h2>
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif' width="50"'></a></h2>
 
 
 <br>
