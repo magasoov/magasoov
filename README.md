@@ -57,5 +57,5 @@
 
 <br>
 
-<h2 align="center" > <a href="" target="_blank" rel="noopener noreferrer"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif"  width="1200"  height="100" />
+<h2 align="center" > <a href="" target="_blank" rel="noopener noreferrer"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif"  width="1000"  height="100" />
 
