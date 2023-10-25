@@ -7,7 +7,7 @@
 
 
 
-<h2 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi there, I'm <a href="https://instagram.com/01aushev" target="_blank" rel="noopener noreferrer">Muhammad</a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" height="30" />
+<h2 ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi there, I'm <a href="https://instagram.com/01aushev" target="_blank" rel="noopener noreferrer">Muhammad</a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" height="30" />
 
 
 
