@@ -63,4 +63,4 @@
 Credits: [magasoov](https://github.com/magasoov)
 
 01/09/2023
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif' width='50"'></a></h2>
+<a href="https://github.com/UjwalKandi"><img align='center' src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif' width='50"'></a></h2>
