@@ -6,7 +6,7 @@
 
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Muhammad</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif' width='150"'></a></h2>
+
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
@@ -54,7 +54,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+Проект)](https://magasoov.github.io/projekt/)
 
 
-
+<br />
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif' width='150"'></a></h2>
 
 -----
 Credits: [magasoov](https://github.com/magasoov)
