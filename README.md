@@ -7,8 +7,7 @@
 
 <p align="left">Hi there, I'm Muhammad  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" width="80"> </p>
 
-
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a></h2>
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Muhammad</a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Animated-Flag-Ingushetia.gif" height="30" />
 
 
 
